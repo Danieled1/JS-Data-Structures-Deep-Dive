@@ -1,7 +1,7 @@
 #### The MethodTemplate
 
 # Method Name
-
+Object.assign
 <!-- Provide the exact name of the method. For example, `push`. -->
 
 ## Description
